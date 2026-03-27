@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/262886742?s=200&v=4" width="100" alt="Telestas Logo" />
+<img src="https://raw.githubusercontent.com/Telestas/.github/main/telestas_logo.svg" width="100" alt="Telestas Logo" />
 
 # Telestas
 
